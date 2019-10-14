@@ -3,64 +3,44 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Data Science Consultant at North Carolina State University Libraries
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`August 2018 - May 2020`
+__North Carolina State University__
+Master of Science in Electrical Engineering (With Focus on Signal Processing and Computational Intelligence) [GPA: 3.61/4.0]
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`August 2014 - July 2018`
+__Easwari Engineering College__
+Bachelors of Engineering in Electronics and Communication Engineering [GPA: 8.01/10.0]
 
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+`August 2019 - Current`
+__Data Science Consultant__, NCSU Libraries
 
-- Task
-- Task
+- Consultation regarding Data Science tools and Functions: Guide students and patrons of the University
+Libraries regarding Data visualization, Predictive modelling and in-person consultation regarding python
+programming.
+- Specialized solutions provider: Providing technical Expertise and consultation to graduate and undergraduate
+students in elds like Computer Vision, Natural Language Processing and Neural Networks.
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`June 2019-August 2019`
+__Artificial Intelligence Intern__, RTI International 
 
-- Task
-- Task
+- Visual People Engagement: Developed a functional code that analyses the engagement of people ( i.e., how
+they react to a survey and their opinion) by recognition of Emotions. Dataset was created with help of various
+open-source images and explored the options of introducing synthetic data for better training.
 
+- People Tracking using Kalman Filter: Prepared a model capable of detecting an individual in a given frame of
+a video, and effectively track them through the frames in real time. Trained the model for over 40000 iterations
+using Tensorflow GPU. Overcame 'nan' loss error by incorporating exponential learning rate decay.
+
+- Speech to Text on survey videos with a dockerized application: Constructed a standalone Docker
+Container that takes in a video and Email-ID and sends the user a customized report based on the speech to text
+translation service from Microsoft Cognitive services.
 
 
 <!-- ### Footer
